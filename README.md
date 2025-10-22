@@ -12,8 +12,8 @@ This repository includes two CSV files:
 
 | File | Description |
 |------|--------------|
-| **malditof_training_data.csv** | Dataset used for training machine learning models for bacterial identification, AMR prediction. |
-| **malditof_validation_data.csv** | Independent dataset used for external validation and model evaluation. |
+| [**malditof_training_data.csv**](https://drive.google.com/file/d/1DXfdK0Of7tNLSFnhgKk6XAghrE8qtF7O/view?usp=sharing) | Dataset used for training machine learning models for bacterial identification, AMR prediction. |
+| [**malditof_validation_data.csv**](https://drive.google.com/file/d/1z18diQwBMzPzIw6xHIk-eFQpye-d9SXe/view?usp=sharing) | Independent dataset used for external validation and model evaluation. |
 
 ---
 
